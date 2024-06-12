@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<bematech>
+    <CopiaCheque>
+        <Banco />
+        <Valor />
+        <Favorecido />
+        <Cidade />
+        <Data />
+        <ImpressaoVerso />
+        <Linhas />
+        <Mensagem />
+        <Fonte />
+    </CopiaCheque>
+    <Opcional>
+        <Favorecido />
+        <Cidade />
+    </Opcional>
+    <RelatorioTipo60>
+        <COOInicial />
+        <COOFinal />
+        <GTInicial />
+        <GTFinal />
+    </RelatorioTipo60>
+    <Informacoes>
+        <StampVinculado />
+        <StampGerencial />
+        <TotalizadoresParciais />
+        <CortaPapel>1</CortaPapel>
+        <CortaProximoCupom>1</CortaProximoCupom>
+        <CupomAdicional>0</CupomAdicional>
+        <ModoCalculo>A</ModoCalculo>
+        <CupomTotalizado>0</CupomTotalizado>
+        <SubTotal>001</SubTotal>
+        <NumeroItem>1</NumeroItem>
+        <NumeroCupom>0</NumeroCupom>
+        <NumeroSerie>0</NumeroSerie>
+        <NumeroReducao>0997</NumeroReducao>
+        <ContadorCupomFiscal>0</ContadorCupomFiscal>
+        <SensorPapel>1</SensorPapel>
+        <TotalICMS>0</TotalICMS>
+        <ICMSUltimoCupom>0</ICMSUltimoCupom>
+        <TotalISS>0</TotalISS>
+        <ISSUltimoCupom>0</ISSUltimoCupom>
+        <CancelamentoCCD>1</CancelamentoCCD>
+        <COOUltimoCupom>110449</COOUltimoCupom>
+        <COOUltimoCCD>0</COOUltimoCCD>
+        <ValorFaltante>000</ValorFaltante>
+        <ValorPagoUltimoCupom>00000000000001</ValorPagoUltimoCupom>
+        <CNFVAberto>0</CNFVAberto>
+        <ValorVendidoUltimoItem>100</ValorVendidoUltimoItem>
+        <CNFVEstorno>0</CNFVEstorno>
+        <CNFEstorno>0</CNFEstorno>
+        <CNFSubtotal>0</CNFSubtotal>
+        <CFEstorno>0</CFEstorno>
+        <Subtotalizado>0</Subtotalizado>
+    </Informacoes>
+    <CodigoBarras>
+        <Altura>1</Altura>
+        <Largura>0</Largura>
+        <Posicao>0</Posicao>
+        <Condensado>0</Condensado>
+        <Margem>0</Margem>
+    </CodigoBarras>
+</bematech>
