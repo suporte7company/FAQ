@@ -5,7 +5,7 @@
 ## ❓ FAQ
 
 ### Erro ao acessar pastas de rede no Windows 11
-
+#Infra
 Veja a solução na Issue:
 👉 https://github.com/seu-repo/issues/1
 [#1 - Erro SMB](https://github.com/suporte7company/FAQ/issues/79)
