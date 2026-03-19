@@ -1,0 +1,83 @@
+name: 🛠️ Suporte Técnico
+description: Registrar problema técnico e sua possível solução
+title: "[SUPORTE] - "
+labels: ["suporte", "triagem"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🧾 Registro de Problema Técnico
+        Preencha as informações abaixo para facilitar análise e documentação.
+
+  - type: input
+    id: ambiente
+    attributes:
+      label: 🖥️ Ambiente
+      description: Informe sistema, versão, servidor, etc.
+      placeholder: "Ex: Windows 11 24H2 / Servidor 2019 / ERP BMSoft"
+    validations:
+      required: true
+
+  - type: input
+    id: erro
+    attributes:
+      label: ❌ Erro encontrado
+      description: Mensagem exata do erro
+      placeholder: "Ex: Socket Error #11001 - Host not found"
+    validations:
+      required: true
+
+  - type: textarea
+    id: sintomas
+    attributes:
+      label: 🧪 Sintomas
+      description: O que exatamente acontece?
+      placeholder: |
+        - Não conecta
+        - Solicita login mas recusa
+        - Lentidão
+    validations:
+      required: true
+
+  - type: textarea
+    id: causa
+    attributes:
+      label: 🔍 Possível causa
+      description: Se souber, descreva a causa do problema
+      placeholder: "Ex: Bloqueio de SMB por política de segurança"
+    validations:
+      required: false
+
+  - type: textarea
+    id: solucao
+    attributes:
+      label: ✅ Solução aplicada
+      description: Passo a passo da solução
+      placeholder: |
+        1. Abrir PowerShell como admin
+        2. Executar comando X
+        3. Reiniciar máquina
+    validations:
+      required: false
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: 📌 Status
+      options:
+        - 🟡 Em análise
+        - 🟢 Resolvido
+        - 🔴 Não resolvido
+    validations:
+      required: true
+
+  - type: textarea
+    id: observacoes
+    attributes:
+      label: 📎 Observações
+      description: Informações adicionais
+      placeholder: "Ex: Apenas em máquinas novas, rede específica, etc."
+    validations:
+      required: false

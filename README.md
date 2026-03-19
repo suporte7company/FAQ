@@ -1,11 +1,116 @@
-<H1>Projeto destinado as soluções para BUGS no sistema</H1>
+# 🛠️ Base de Conhecimento - Suporte Company
 
-![2](https://github.com/suporte7company/DeyvisonReclamao/assets/168865738/96688209-7099-4e9f-9907-86faebf3cbf9)
+Repositório destinado ao registro de problemas, soluções e procedimentos técnicos do dia a dia.
 
-## ❓ FAQ
+---
 
-### Erro ao acessar pastas de rede no Windows 11
-#Infra
-Veja a solução na Issue:
-👉 https://github.com/seu-repo/issues/1
-[#1 - Erro SMB](https://github.com/suporte7company/FAQ/issues/79)
+## 📑 Índice
+
+- [📌 Sobre](#-sobre)
+- [⚡ Soluções Rápidas](#-soluções-rápidas)
+- [🧠 FAQ](#-faq)
+- [📂 Categorias](#-categorias)
+- [🚀 Como contribuir](#-como-contribuir)
+
+---
+
+## 📌 Sobre
+
+Este repositório funciona como uma base de conhecimento técnica.
+
+- 🐞 Problemas/Solução são registrados como **Issues**
+- ✅ Soluções validadas são organizadas aqui no **README**
+- 📚 Conteúdos mais completos podem ser movidos para a **Wiki**
+
+---
+
+## ⚡ Soluções Rápidas
+
+> Acesso direto para problemas comuns
+
+- [🖥️ Erro ao acessar pastas de rede no Windows 11](https://github.com/suporte3company/FAQ_PILOT/issues/1)
+
+---
+
+## 🧠 FAQ
+
+### ❓ Erro ao acessar pastas de rede no Windows 11 (24H2 / 25H2)
+
+📌 **Sintoma:**  
+Falha ao conectar via SMB, mesmo com credenciais corretas.
+
+📎 **Solução completa:**  
+👉 https://github.com/suporte3company/FAQ_PILOT/issues/1
+
+🧩 **Resumo da solução:**
+- Ajuste via PowerShell
+- Liberação de logon inseguro
+- Revisão de usuário remoto
+
+---
+
+### ❓ Erro Modelo
+
+📌 **Sintoma:**  
+Modelo | Falha de envio de e-mail com erro "host not found".
+
+📎 **Solução completa:**  
+👉 https://github.com/SEU-USUARIO/SEU-REPO/issues/2
+
+🧩 **Resumo da solução:**
+- Modelo 1
+- Modelo 2
+- Modelo 3
+
+---
+
+## 📂 Categorias
+
+### 🖥️ Windows / Rede
+
+- [Erro SMB Windows 11](https://github.com/suporte3compoany/FAQ_PILOT/issues/1)
+
+---
+
+### 📧 Modelo
+
+- [Erro 1 - Modelo](https://github.com/SEU-USUARIO/SEU-REPO/issues/2)
+
+---
+
+
+
+---
+
+## 🚀 Como contribuir
+
+1. Crie uma **Issue** descrevendo o problema
+2. Documente:
+   - Sintomas
+   - Causa (se souber)
+   - Solução aplicada
+3. Após validação:
+   - Adicione ao README (FAQ ou Soluções Rápidas)
+
+---
+
+## 💡 Padrão de Issues (recomendado)
+
+Use esse modelo ao abrir uma Issue: [Template Padrão](https://github.com/suporte3company/FAQ_PILOT/blob/main/.github/ISSUE_TEMPLATE/suporte.yml)
+
+```markdown
+### 🐞 Problema
+Descreva o erro
+
+### 🧪 Sintomas
+- Item 1
+- Item 2
+
+### 🔍 Causa
+(opcional)
+
+### ✅ Solução
+Passo a passo
+
+### 📎 Observações
+(opcional)
