@@ -10,6 +10,7 @@ Repositório destinado ao registro de problemas, soluções e procedimentos téc
 - [⚡ Soluções Rápidas](#-soluções-rápidas)
 - [🧠 FAQ](#-faq)
 - [📂 Categorias](#-categorias)
+- [📚 Documentação](https://github.com/suporte7company/FAQ/tree/42620c24208ef8f70638770dac0c505ff3780d1c/docs)
 - [🚀 Como contribuir](#-como-contribuir)
 
 ---
@@ -20,7 +21,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 - 🐞 Problemas/Solução são registrados como **Issues**
 - ✅ Soluções validadas são organizadas aqui no **README**
-- 📚 Conteúdos mais completos podem ser movidos para a **Wiki**
+- 📚 Conteúdos sobre sistemas estão no diretório **docs**(Documentação por sistema)
 
 ---
 
