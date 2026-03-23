@@ -31,6 +31,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 - [🖥️ Erro ao acessar pastas de rede no Windows 11](https://github.com/suporte3company/FAQ_PILOT/issues/1)
 - [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
+- [🔴 Erro ao verificar sincronização de DLL´s ](https://github.com/suporte7company/FAQ/issues/81)
 
 ---
 
