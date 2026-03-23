@@ -30,6 +30,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 > Acesso direto para problemas comuns
 
 - [🖥️ Erro ao acessar pastas de rede no Windows 11](https://github.com/suporte3company/FAQ_PILOT/issues/1)
+- [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
 
 ---
 
@@ -38,10 +39,10 @@ Este repositório funciona como uma base de conhecimento técnica.
 ### ❓ Erro ao acessar pastas de rede no Windows 11 (24H2 / 25H2)
 
 📌 **Sintoma:**  
-Falha ao conectar via SMB, mesmo com credenciais corretas.
+[Exemplo]Falha ao conectar via SMB, mesmo com credenciais corretas.
 
 📎 **Solução completa:**  
-👉 https://github.com/suporte3company/FAQ_PILOT/issues/1
+👉 *https://github.com/suporte3company/FAQ_PILOT/issues/1*
 
 🧩 **Resumo da solução:**
 - Ajuste via PowerShell
