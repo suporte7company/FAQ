@@ -10,7 +10,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - [Cadastro de Produtos](processos/cadastros-produtos.md)
 - [Cadastro de Clientes](processos/cadastros-clientes.md)
 - Cadastro de Fornecedores
-- [Cadastro/Importação de Certificado](/processos/cadastros-certificado-digital.md)
+- [Cadastro/Importação de Certificado](processos/cadastros-certificado-digital.md)
 
 ---
 
