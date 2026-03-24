@@ -1,7 +1,7 @@
 # 🧾 Liberar permissão para acesso de area remota do cliente para instalação do certificado digital
 
 ## 📌 Objetivo
-Orientar o processo para acessar a área remota do cliente a fim de instalar o certificado digital do cliente.
+Orientar o processo para acessar a área remota do cliente, no datacenter, a fim de instalar o certificado digital do cliente.
 
 ---
 
