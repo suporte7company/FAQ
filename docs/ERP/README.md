@@ -21,6 +21,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 ---
 
 ### 💰 [Financeiro](financeiro.md)
+- [Renovação de senha do cliente](https://github.com/suporte7company/FAQ/blob/d4b5c04dd039d5c8a4c0aff17cb9b3e8f421bbb6/docs/ERP/processos/financeiro-renova-senha.md)
 - Lançamento de Contas
 - [Baixa de Títulos](processos/financeiro-baixa-titulos.md)
 - Conciliação Bancária
