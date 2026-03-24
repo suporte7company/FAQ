@@ -43,7 +43,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 [Exemplo]Falha ao conectar via SMB, mesmo com credenciais corretas.
 
 📎 **Solução completa:**  
-👉 *https://github.com/suporte3company/FAQ_PILOT/issues/1*
+👉 *[Resolução](https://github.com/suporte7company/FAQ/issues/79)*
 
 🧩 **Resumo da solução:**
 - Ajuste via PowerShell
@@ -99,7 +99,7 @@ Modelo | Falha de envio de e-mail com erro "host not found".
 
 ## 💡 Padrão de Issues (recomendado)
 
-Use esse modelo ao abrir uma Issue: [Template Padrão](https://github.com/suporte3company/FAQ_PILOT/blob/main/.github/ISSUE_TEMPLATE/suporte.yml)
+Use esse modelo ao abrir uma Issue: [Template Padrão](https://github.com/suporte7company/FAQ/issues/79)
 
 ```markdown
 ### 🐞 Problema
