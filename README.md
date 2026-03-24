@@ -32,6 +32,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 - [🖥️ Erro ao acessar pastas de rede no Windows 11](https://github.com/suporte3company/FAQ_PILOT/issues/1)
 - [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
 - [🔴 Erro ao verificar sincronização de DLL´s ](https://github.com/suporte7company/FAQ/issues/81)
+- [🪟 Desconectar usuário conectado as pastas de rede](https://github.com/suporte7company/FAQ/blob/08232c7feec1e67fa45f7385d39ad31ddab844fe/docs/ERP/processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
 
 ---
 
@@ -101,19 +102,3 @@ Modelo | Falha de envio de e-mail com erro "host not found".
 
 Use esse modelo ao abrir uma Issue: [Template Padrão](https://github.com/suporte7company/FAQ/issues/79)
 
-```markdown
-### 🐞 Problema
-Descreva o erro
-
-### 🧪 Sintomas
-- Item 1
-- Item 2
-
-### 🔍 Causa
-(opcional)
-
-### ✅ Solução
-Passo a passo
-
-### 📎 Observações
-(opcional)
