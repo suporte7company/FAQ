@@ -11,6 +11,7 @@ Repositório destinado ao registro de problemas, soluções e procedimentos téc
 - [🧠 FAQ](#-faq)
 - [📂 Categorias](#-categorias)
 - [📚 Documentação](https://github.com/suporte7company/FAQ/tree/42620c24208ef8f70638770dac0c505ff3780d1c/docs)
+- [📋 Formulários](#-formulários)
 - [🚀 Como contribuir](#-como-contribuir)
 
 ---
@@ -33,6 +34,13 @@ Este repositório funciona como uma base de conhecimento técnica.
 - [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
 - [🔴 Erro ao verificar sincronização de DLL´s ](https://github.com/suporte7company/FAQ/issues/81)
 - [🪟 Desconectar usuário conectado as pastas de rede](https://github.com/suporte7company/FAQ/blob/08232c7feec1e67fa45f7385d39ad31ddab844fe/docs/ERP/processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
+
+---
+## 📝 Formulários
+
+> Acesso direto para padrões de formulários
+
+- [Cadastro de Operações](https://github.com/suporte7company/FAQ/blob/6ad488bdfb263c5a257deac9fbc97e3f097be033/docs/ERP/processos/cadastros-formul%C3%A1rio_cadastro-de-opera%C3%A7%C3%B5es.md)
 
 ---
 
@@ -79,9 +87,6 @@ Modelo | Falha de envio de e-mail com erro "host not found".
 ### 📧 Modelo
 
 - [Erro 1 - Modelo](https://github.com/SEU-USUARIO/SEU-REPO/issues/2)
-
----
-
 
 
 ---
