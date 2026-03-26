@@ -75,6 +75,19 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 ---
 
+### ❓Erro de DLL ao tentar abrir o sistema(ERP) em clientes que usam no datacenter
+
+📌 **Sintoma:**  
+`Ao tentar abrir sistema via solução goglobal o sistema retorna o erro.` 
+
+📎 **Solução completa:**  
+👉 [Solução](https://github.com/suporte7company/FAQ/issues/81)
+
+🧩 **Resumo da solução:**
+- Renomear a pasta "DLL" dentro dos arquivos do sistema no datacenter.
+
+---
+
 ## 📂 Categorias
 
 ### 🖥️ Windows / Rede
@@ -83,10 +96,21 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 ---
 
-### 📧 Modelo
+### 📧 Pré-Venda(ERP)
 
-- [Erro 1 - Modelo](https://github.com/SEU-USUARIO/SEU-REPO/issues/2)
+- [Pré-venda travada e não permite edição](https://github.com/suporte7company/FAQ/issues/86)
 
+---
+
+### 📝 Notas(ERP)
+
+- [Inconsistência no cálculo do ICMS ao emitir nota "Pro emprego" ](https://github.com/suporte7company/FAQ/issues/85)
+
+---
+
+### 🤳 NFC-e(ERP)
+
+- [Rejeição: NFC-e de entrega a domicilio sem a identificação do destinatário](https://github.com/suporte7company/FAQ/issues/83)
 
 ---
 
