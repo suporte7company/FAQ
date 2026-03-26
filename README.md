@@ -49,10 +49,10 @@ Este repositório funciona como uma base de conhecimento técnica.
 ### ❓ Erro ao acessar pastas de rede no Windows 11 (24H2 / 25H2)
 
 📌 **Sintoma:**  
-[Exemplo]Falha ao conectar via SMB, mesmo com credenciais corretas.
+`Falha ao conectar via SMB, mesmo com credenciais corretas.`
 
 📎 **Solução completa:**  
-👉 *[Resolução](https://github.com/suporte7company/FAQ/issues/79)*
+👉 *[Solução](https://github.com/suporte7company/FAQ/issues/79)*
 
 🧩 **Resumo da solução:**
 - Ajuste via PowerShell
@@ -61,18 +61,17 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 ---
 
-### ❓ Erro Modelo
+### ❓Erro ao gerar NFCE - XML não pode ser nulo
 
 📌 **Sintoma:**  
-Modelo | Falha de envio de e-mail com erro "host not found".
+`Ao tentar emitir cupom nfce no caixa retorna a mensagem de "xmlnode não pode ser nulo".` 
 
 📎 **Solução completa:**  
-👉 https://github.com/SEU-USUARIO/SEU-REPO/issues/2
+👉 [Solução](https://github.com/suporte7company/FAQ/issues/84)
 
 🧩 **Resumo da solução:**
-- Modelo 1
-- Modelo 2
-- Modelo 3
+- Ajuste via alocação de arquivos dll(libintl-8.dll)
+- Colocar dll na pasta do PAF_NFCE `/bmSoft/PAF_NFCe`
 
 ---
 
