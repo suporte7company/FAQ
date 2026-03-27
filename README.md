@@ -34,6 +34,7 @@ Este repositório funciona como uma base de conhecimento técnica.
 - [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
 - [🔴 Erro ao verificar sincronização de DLL´s ](https://github.com/suporte7company/FAQ/issues/81)
 - [🪟 Desconectar usuário conectado as pastas de rede](https://github.com/suporte7company/FAQ/blob/08232c7feec1e67fa45f7385d39ad31ddab844fe/docs/ERP/processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
+- [❌ Inativar acesso de usuário no ERP](https://github.com/suporte7company/FAQ/blob/1311e99ba6e9d3859f3406e2e55a4d4989c28c34/docs/ERP/processos/cadastros-inativar_usuario.md)
 
 ---
 ## 📝 Formulários
