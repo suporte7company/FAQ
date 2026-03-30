@@ -20,15 +20,56 @@ Repositório destinado ao registro de problemas, soluções e procedimentos téc
 
 Este repositório funciona como uma base de conhecimento técnica.
 
-- 🐞 Problemas/Solução são registrados como **Issues**
-- ✅ Soluções validadas são organizadas aqui no **README**
-- 📚 Conteúdos sobre sistemas estão no diretório **docs**(Documentação por sistema)
+---
+
+### 🧩 Estrutura de conteúdo
+
+* 🐞 **Issues**
+  Utilizadas para registrar problemas, análises e respectivas soluções.
+
+* ✅ **README**
+  Contém soluções já validadas, organizadas para consulta rápida.
+
+* 📚 **Diretório `docs`**
+  Responsável pela documentação dos sistemas, organizada por contexto.
+
+---
+
+### 📂 Organização da documentação `/docs`
+
+* Cada sistema possui um diretório próprio dentro de `docs`.
+* Em cada diretório, há um arquivo `README.md` que funciona como **índice principal**, contendo:
+
+  * Direcionamentos
+  * Explicações dos processos por módulo
+
+---
+
+### 📝 Padrão de nomenclatura
+
+Para manter a consistência dos arquivos:
+
+* O nome dos documentos deve iniciar com o **módulo ou ambiente**, seguido da ação:
+
+  `modulo-acao-descricao.md`
+
+* Exemplo:
+  `cadastros-criar-novo_usuario.md`
+
+---
+
+### 🔗 Estrutura interna dos módulos
+
+* Arquivos principais de cada módulo (na raiz do diretório) funcionam como **índices internos**, contendo:
+
+  * Lista de processos relacionados
+  * Referências para **Issues** vinculadas ao módulo
 
 ---
 
 ## ⚡ Soluções Rápidas
 
-> Acesso direto para problemas comuns
+> Acesso direto para soluções comumente usadas
 
 - [🖥️ Erro ao acessar pastas de rede no Windows 11](https://github.com/suporte3company/FAQ_PILOT/issues/1)
 - [🚫 Bloqueio ao tentar abrir o sistema ERP/BMsoft](https://github.com/suporte7company/FAQ/issues/82)
@@ -115,15 +156,72 @@ Este repositório funciona como uma base de conhecimento técnica.
 
 ---
 
+---
+
 ## 🚀 Como contribuir
 
-1. Crie uma **Issue** descrevendo o problema
-2. Documente:
-   - Sintomas
-   - Causa (se souber)
-   - Solução aplicada
-3. Após validação:
-   - Adicione ao README (FAQ ou Soluções Rápidas)
+### 🐞 Para soluções de problemas (via **Issues**)
+
+1. Crie uma **Issue** descrevendo o problema identificado.
+
+2. Documente obrigatoriamente:
+
+   * **Título**
+   * **Ambiente**
+   * **Erro encontrado**
+   * **Sintomas**
+   * **Possível causa** (quando aplicável)
+   * **Solução aplicada**
+   * **Status**
+   * **Observações**
+
+3. Após validação da solução:
+
+   * Consolidar a informação no `README`, em:
+
+     * **Soluções rápidas**, ou
+     * **Categorias específicas**
+
+---
+
+### 📚 Para documentação de processos/configurações
+
+1. Crie um arquivo `.md` no diretório correspondente:
+
+   ```
+   /docs/<sistema>/processos
+   ```
+
+2. Siga o padrão de estrutura:
+
+   * **Título**
+   * **Objetivo**
+   * **Quando utilizar**
+   * **Passo a passo**
+
+     * 1. Etapa principal
+
+       * 1.1 Subetapa
+       * 1.2 Subetapa
+   * **Resultado esperado**
+   * **Observações**
+
+3. Utilize o padrão de nomenclatura:
+
+   ```
+   modulo-acao-descricao.md
+   ```
+
+   **Exemplo:**
+   `cadastros-criar-novo_usuario.md`
+
+4. Atualize o índice do módulo:
+
+   * Adicione o novo processo no arquivo `modulo.md`, localizado na raiz do diretório do sistema
+   * Isso garante organização e facilita a busca por conteúdo relacionado ao módulo
+
+---
+
 
 ---
 
