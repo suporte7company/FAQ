@@ -78,6 +78,7 @@ Para manter a consistência dos arquivos:
 - [❌ Inativar acesso de usuário no ERP](https://github.com/suporte7company/FAQ/blob/1311e99ba6e9d3859f3406e2e55a4d4989c28c34/docs/ERP/processos/cadastros-inativar_usuario.md)
 - [❌ Sistema ou PAF não carregam por estouro de acessos(DBISAM)](https://github.com/suporte7company/FAQ/issues/87)
 - [🚫 Erro de conexão ao abrir o sistema - Não encontra pasta da BM](https://github.com/suporte7company/FAQ/issues/88)
+- [🚫 Erro ao abrir Configurador - BMSoft](https://github.com/suporte7company/FAQ/issues/89)
 
 ---
 ## 📝 Formulários
