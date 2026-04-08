@@ -144,6 +144,7 @@ Para manter a consistência dos arquivos:
 ### 📧 Pré-Venda(ERP)
 
 - [Pré-venda travada e não permite edição](https://github.com/suporte7company/FAQ/issues/86)
+- [Erro de acess violation após emissão da Pré Venda](https://github.com/suporte7company/FAQ/issues/90)
 
 ---
 
