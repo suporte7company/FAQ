@@ -66,3 +66,9 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - [Configuração de e-mail](processos/infra-config-email.md)
 - [Configurar acesso a area de cliente no datacenter](https://github.com/suporte7company/FAQ/blob/2c4d398b034ffa20dbcf50149061ad786e4ff33e/docs/ERP/processos/infra-acesso_area_remota_cliente.md)
 - [Desconectar usuário conectado as pastas de rede](https://github.com/suporte7company/FAQ/blob/08232c7feec1e67fa45f7385d39ad31ddab844fe/docs/ERP/processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
+
+---
+
+### ⚙️ [Implantação/Configuração]
+
+- [Ativar Modo Consulta](processos/master-modo_consulta.md)
