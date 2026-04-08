@@ -159,6 +159,8 @@ Para manter a consistência dos arquivos:
 
 ---
 
+### ⚙️ Implantação/Configuração (ERP)
+- [Ativar Modo Consulta no BMsoft](/docs/ERP/processos/master-modo_consulta.md)
 ---
 
 ## 🚀 Como contribuir
