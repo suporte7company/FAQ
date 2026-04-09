@@ -40,6 +40,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - Emissão de NF-e
 - Consulta de NF-e
 - Cancelamento de NF-e
+- [Gerar arquivo mensal de notas](processos/notas-gerar_arquivo_mensal.md)
 
 ---
 
