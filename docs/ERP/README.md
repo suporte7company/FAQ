@@ -47,6 +47,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - [Abertura de Caixa](processos/nfce-abertura-caixa.md)
 - Fechamento de Caixa
 - Emissão de NFC-e
+- [Configurar impressora no PAFNFCe](processos/nfce-PAFNFCe-configurar_impressora_padrao.md)
 
 ---
 
