@@ -5,3 +5,4 @@
 - Abertura de Caixa
 - Fechamento de Caixa
 - Emissão de NFC-e
+- [Configurar impressora no PAFNFCe](processos/nfce-PAFNFCe-configurar_impressora_padrao.md)
