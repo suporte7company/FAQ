@@ -148,13 +148,13 @@ Para manter a consistência dos arquivos:
 
 ---
 
-### 📝 Notas(ERP)
+### 📝 [Notas(ERP)](docs/ERP/notas-fiscais.md)
 
 - [Inconsistência no cálculo do ICMS ao emitir nota "Pro emprego" ](https://github.com/suporte7company/FAQ/issues/85)
 
 ---
 
-### 🤳 NFC-e(ERP)
+### 🤳 [NFC-e(ERP)](docs/ERP/nfce-caixa.md)
 
 - [Rejeição: NFC-e de entrega a domicilio sem a identificação do destinatário](https://github.com/suporte7company/FAQ/issues/83)
 
