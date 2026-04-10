@@ -4,6 +4,7 @@
 
 - Emissão de NF-e
 - Cancelamento de NF-e
+- [Cancelamento de NFS rejeitada](processos/notas-nfs_cancelar-nota-rejeitada.md)
 - Consulta de NF-e
 - [Gerar arquivo mensal de notas](processos/notas-gerar_arquivo_mensal.md)
 
