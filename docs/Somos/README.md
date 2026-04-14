@@ -35,6 +35,7 @@ Documentação de procedimentos e utilização do Sistemas JOB/EIXO(bruning).
 - Emissão de NF-e
 - Consulta de NF-e
 - Cancelamento de NF-e
+- [Gerar arquivos das notas para contabilidade em formato PDF(DANFE)](processos/notas-gerar_arquivo_DANFE.md)
 
 ---
 
