@@ -9,9 +9,7 @@ Documentação de procedimentos e utilização do Sistemas JOB/EIXO(bruning).
 ### 🧾 Cadastros
 - [Cadastro de Produtos](processos/cadastros-produtos.md)
 - [Cadastro de Clientes](processos/cadastros-clientes.md)
-- Cadastro de Fornecedores
-
----
+- [Cadastrar Acesso de Computador Após Exclusão](processos/cadastros-cadastrar_computador_apos_exclusão.md)
 
 ### 🛒 Compras
 - Lançamento de Compra
