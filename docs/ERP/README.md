@@ -64,6 +64,10 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - Exportação de dados
 
 ---
+### 🧾 [Ordem de Serviço - O.S]()
+- [Editar Layout da O.S](/processos/os-alterar_layout.md)
+
+---
 
 ### ⚙️ [Infraestrutura](infra.md)
 - [Configuração de e-mail](processos/infra-config-email.md)
