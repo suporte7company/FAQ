@@ -79,3 +79,4 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 ### ⚙️ [Implantação/Configuração]
 
 - [Ativar Modo Consulta](processos/master-modo_consulta.md)
+- [Gerenciamento de acessos simultaneos ao sistema](processos/master-down_upgr-slots-de-acesso.md)
