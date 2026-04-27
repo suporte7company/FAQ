@@ -140,7 +140,9 @@ Para manter a consistência dos arquivos:
 - [Erro SMB Windows 11](https://github.com/suporte3compoany/FAQ_PILOT/issues/1)
 
 ---
-
+### 🛒 Compras 
+- [Destravar Pedido de Compra](docs/ERP/processos/compras-destravar-pedido.md)
+---
 ### 📧 Pré-Venda(ERP)
 
 - [Pré-venda travada e não permite edição](https://github.com/suporte7company/FAQ/issues/86)
