@@ -15,6 +15,11 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 
 ---
 
+### 📄 [DAV](dav.md)
+- Exemplo aqui
+
+---
+
 ### 🛒 [Compras](compras.md)
 - Lançamento de Compra
 - [Importação de Nota Fiscal de Entrada](processos/compras-importacao-nf.md)
