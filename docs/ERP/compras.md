@@ -4,6 +4,7 @@
 
 - Lançamento de Compra
 - Importação de Nota Fiscal de Entrada
+- [Destravar Pedido de Compra](processos/compras-destravar-pedido.md)
 
 ---
 
