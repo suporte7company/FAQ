@@ -18,6 +18,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 ### 🛒 [Compras](compras.md)
 - Lançamento de Compra
 - [Importação de Nota Fiscal de Entrada](processos/compras-importacao-nf.md)
+- [Destravar Pedido de Compra](processos/compras-destravar-pedido.md)
 
 ---
 
