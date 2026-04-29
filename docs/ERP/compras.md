@@ -10,4 +10,4 @@
 
 ## 🐞 Problemas comuns
 
-- [Ver issues relacionadas](https://github.com/suporte7company/FAQ/issues)
+- [Ver issues relacionadas](https://github.com/suporte7company/FAQ/issues?q=is%3Aissue%20state%3Aopen%20label%3ACompras)
