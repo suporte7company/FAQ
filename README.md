@@ -156,6 +156,11 @@ Para manter a consistência dos arquivos:
 
 ---
 
+### NFs 
+
+- [Falha ao enviar e-mail da NFS: Arquivo XML não encontrado](https://github.com/suporte7company/FAQ/issues/94)
+
+---
 ### 🤳 [NFC-e(ERP)](docs/ERP/nfce-caixa.md)
 
 - [Rejeição: NFC-e de entrega a domicilio sem a identificação do destinatário](https://github.com/suporte7company/FAQ/issues/83)
