@@ -5,4 +5,5 @@
 - Abertura de Caixa
 - Fechamento de Caixa
 - Emissão de NFC-e
+- [Inutilizar numeração do NFC](processos/nfce-inutilizar_numeracao.md)
 - [Configurar impressora no PAFNFCe](processos/nfce-PAFNFCe-configurar_impressora_padrao.md)
