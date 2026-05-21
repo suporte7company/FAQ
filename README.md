@@ -164,6 +164,7 @@ Para manter a consistência dos arquivos:
 ### 🤳 [NFC-e(ERP)](docs/ERP/nfce-caixa.md)
 
 - [Rejeição: NFC-e de entrega a domicilio sem a identificação do destinatário](https://github.com/suporte7company/FAQ/issues/83)
+- [Erro ao abrir PAFNFCe | Corrompimento de tabela](https://github.com/suporte7company/FAQ/issues/95)
 
 ---
 
