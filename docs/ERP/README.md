@@ -10,7 +10,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 - [Cadastro de Produtos](processos/cadastros-produtos.md)
 - [Cadastro de Clientes](processos/cadastros-clientes.md)
 - [Cadastrar Novo usuário(login)](processos/cadastros-criar-novo_usuário.md)
-- Cadastro de Fornecedores
+- [Cadastro de Fornecedor Genérico](processos/cadastros-fornecedor_generico.md)
 - [Cadastro/Importação de Certificado](processos/cadastros-certificado-digital.md)
 
 ---
@@ -28,7 +28,7 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 ---
 
 ### 💰 [Financeiro](financeiro.md)
-- [Renovação de senha do cliente](https://github.com/suporte7company/FAQ/blob/d4b5c04dd039d5c8a4c0aff17cb9b3e8f421bbb6/docs/ERP/processos/financeiro-renova-senha.md)
+- [Renovação de senha do cliente](processos/financeiro-renova-senha.md)
 - Lançamento de Contas
 - [Baixa de Títulos](processos/financeiro-baixa-titulos.md)
 - Conciliação Bancária
@@ -79,8 +79,8 @@ Documentação de procedimentos e utilização do sistema BMSoft.
 
 ### ⚙️ [Infraestrutura](infra.md)
 - [Configuração de e-mail](processos/infra-config-email.md)
-- [Configurar acesso a area de cliente no datacenter](https://github.com/suporte7company/FAQ/blob/2c4d398b034ffa20dbcf50149061ad786e4ff33e/docs/ERP/processos/infra-acesso_area_remota_cliente.md)
-- [Desconectar usuário conectado as pastas de rede](https://github.com/suporte7company/FAQ/blob/08232c7feec1e67fa45f7385d39ad31ddab844fe/docs/ERP/processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
+- [Configurar acesso a area de cliente no datacenter](processos/infra-acesso_area_remota_cliente.md)
+- [Desconectar usuário conectado as pastas de rede](processos/infra-desconect-conex-rede_ativa-WinExplorer.md)
 
 ---
 
